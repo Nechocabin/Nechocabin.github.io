@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到书香小屋！防失联请关注公众号：“书香小屋不打烊”！不定期各种福利，各种小说漫画打包自助购买85折！有问题请第一时间联系小说客服：Nenny-xnQc；漫画客服：A031manhua；备用QQ:3575293032帮助您解决问题！
 
 You can use the [editor on GitHub](https://github.com/Nechocabin/Nechocabin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
